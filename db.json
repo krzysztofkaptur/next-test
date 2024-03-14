@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "e3b9",
+      "userId": 1,
+      "title": "qwerqwerr",
+      "completed": true
+    },
+    {
+      "id": "3820",
+      "userId": 1,
+      "title": "test",
+      "completed": true
+    },
+    {
+      "id": "c729",
+      "userId": 1,
+      "title": "heheszki",
+      "completed": true
+    },
+    {
+      "id": "be5b",
+      "userId": 1,
+      "title": ":)",
+      "completed": false
+    }
+  ]
+}
