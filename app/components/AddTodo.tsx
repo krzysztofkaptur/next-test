@@ -16,7 +16,6 @@ export default function AddTodo() {
     e.preventDefault()
 
     addTodo({
-      userId: 1,
       title: value,
       completed: false,
     }).then(() => {
